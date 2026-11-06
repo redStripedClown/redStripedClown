@@ -96,8 +96,6 @@ I contributed to the audio system's programming, prototype assembly, research, a
 ![Office](https://img.shields.io/badge/Office-C94A4A?style=flat-square&logo=microsoftoffice&logoColor=FAF3EB)
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-E57373?style=flat-square&logo=googleworkspace&logoColor=FAF3EB)
 
-**Fundamentals:** programming logic · relational databases · version control · web development
-
 **Areas of interest**
 
 - 🌸 Software engineering and systems analysis
@@ -115,7 +113,6 @@ I contributed to the audio system's programming, prototype assembly, research, a
 | 🇺🇸 English | Advanced |
 | 🤟 Brazilian Sign Language (Libras) | Advanced |
 | 🇪🇸 Spanish | Intermediate |
-| 🇫🇷 French | Basic |
 
 ---
 
