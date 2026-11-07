@@ -44,6 +44,10 @@ My work includes requirements analysis, data modeling, software development, and
 ![PHP](https://img.shields.io/badge/PHP-B23A48?style=flat-square&logo=php&logoColor=FAF3EB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-C94A4A?style=flat-square&logo=javascript&logoColor=FAF3EB)
 ![SQL](https://img.shields.io/badge/SQL-E57373?style=flat-square&logo=mysql&logoColor=FAF3EB)
+![MariaDB](https://img.shields.io/badge/MariaDB-B23A48?style=flat-square&logo=mariadb&logoColor=FAF3EB)
+![CSS](https://img.shields.io/badge/CSS-E57373?style=flat-square&logo=css3&logoColor=FAF3EB)
+
+🏆 *Presented at FICIÊNCIAS, IFTECH and SEPIN in 2026.*
 
     </td>
     <td width="50%" valign="top">
@@ -58,7 +62,7 @@ I contributed to the audio system's programming, prototype assembly, research, a
 ![C](https://img.shields.io/badge/C-C94A4A?style=flat-square&logo=c&logoColor=FAF3EB)
 ![3D](https://img.shields.io/badge/3D_Modeling-E57373?style=flat-square)
 
-🏆 *Presented at FICIÊNCIAS and IFTECH in 2025.*
+🏆 *Presented at FICIÊNCIAS and IFTECH in 2025, classified for the state stage.*
 
     </td>
   </tr>
@@ -110,9 +114,10 @@ I contributed to the audio system's programming, prototype assembly, research, a
 | Language | Level |
 |:--|:--|
 | 🇧🇷 Portuguese | Native |
-| 🇺🇸 English | Advanced |
+| 🇺🇸 English | Fluent |
 | 🤟 Brazilian Sign Language (Libras) | Advanced |
 | 🇪🇸 Spanish | Intermediate |
+| 🇫🇷 French | Basic |
 
 ---
 
