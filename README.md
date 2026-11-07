@@ -1,15 +1,17 @@
-<!-- Palette (shared with the portfolio): #B82D32 red · #842127 dark red · #D96865 light red · #F4EBDD paper · #252322 ink -->
+<!-- Palette (shared with the portfolio): #B82D32 red · #842127 dark red · #D96865 light red · #F4EBDD paper · #252322 ink
+     Accessibility note: #D96865 is decorative only (footer wave). Badges and the banner text use #B82D32 / #842127,
+     which give ≥ 5.8:1 contrast with light text. Don't put text on #D96865 (3.3:1, fails WCAG AA). -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:D96865,100:B82D32&text=Hi,%20I%27m%20Ana%20Clara&fontColor=FFF9F0&fontSize=44&fontAlignY=40&desc=accessibility%20%C3%97%20code&descAlignY=62&descSize=18&descColor=FFF9F0" alt="Banner: Hi, I'm Ana Clara — accessibility × code" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:B82D32,100:842127&text=Hi,%20I%27m%20Ana%20Clara&fontColor=FFF9F0&fontSize=44&fontAlignY=40&desc=accessibility%20%C3%97%20code&descAlignY=62&descSize=18&descColor=FFF9F0" alt="Banner: Hi, I'm Ana Clara — accessibility × code" width="100%" />
 
 **Systems Development student at IFPR · accessibility · assistive technology · embedded systems**
 
-![IFPR](https://img.shields.io/badge/IFPR-Systems_Development-B82D32?style=for-the-badge&labelColor=F4EBDD)
-![Location](https://img.shields.io/badge/Foz_do_Igua%C3%A7u-Paran%C3%A1,_Brazil-842127?style=for-the-badge&labelColor=F4EBDD)
+![IFPR – Systems Development](https://img.shields.io/badge/IFPR-Systems_Development-B82D32?style=for-the-badge&labelColor=F4EBDD)
+![Location: Foz do Iguaçu, Paraná, Brazil](https://img.shields.io/badge/Foz_do_Igua%C3%A7u-Paran%C3%A1,_Brazil-842127?style=for-the-badge&labelColor=F4EBDD)
 
-[![GitHub](https://img.shields.io/badge/Repositories-B82D32?style=for-the-badge&logo=github&logoColor=FFF9F0)](https://github.com/redStripedClown?tab=repositories)
+[![View my repositories on GitHub](https://img.shields.io/badge/Repositories-B82D32?style=for-the-badge&logo=github&logoColor=FFF9F0)](https://github.com/redStripedClown?tab=repositories)
 
 <!-- Add the portfolio badge once the public URL exists:
 [![Portfolio](https://img.shields.io/badge/Portfolio-842127?style=for-the-badge)](PORTFOLIO_URL) -->
@@ -32,9 +34,12 @@ I'm interested in software development, assistive technology, and the intersecti
 
 ## Featured projects
 
+<!-- IMPORTANT: inside this table, keep </td> and <td> lines at column 0 (no indentation).
+     After a blank line, 4+ leading spaces make GitHub render the line as a code block. -->
+
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 ### [Caonectados](https://github.com/CaoNectados/Caonectados)
 
@@ -44,14 +49,14 @@ My work: requirements analysis, data modeling, software development, and feature
 
 ![PHP](https://img.shields.io/badge/PHP-842127?style=flat-square&logo=php&logoColor=FFF9F0)
 ![JavaScript](https://img.shields.io/badge/JavaScript-B82D32?style=flat-square&logo=javascript&logoColor=FFF9F0)
-![SQL](https://img.shields.io/badge/SQL-D96865?style=flat-square&logo=mysql&logoColor=252322)
-![MariaDB](https://img.shields.io/badge/MariaDB-842127?style=flat-square&logo=mariadb&logoColor=FFF9F0)
-![CSS](https://img.shields.io/badge/CSS-D96865?style=flat-square&logo=css3&logoColor=252322)
+![SQL](https://img.shields.io/badge/SQL-842127?style=flat-square&logo=mysql&logoColor=FFF9F0)
+![MariaDB](https://img.shields.io/badge/MariaDB-B82D32?style=flat-square&logo=mariadb&logoColor=FFF9F0)
+![CSS](https://img.shields.io/badge/CSS-842127?style=flat-square&logo=css3&logoColor=FFF9F0)
 
 *Presented at FICIÊNCIAS, IFTECH and SEPIN in 2026.*
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 ### [Tactile and Audio Cardiovascular System](https://github.com/Sistema-Cardiovascular-Biologia-Tatil/tocador_audio)
 
@@ -61,12 +66,12 @@ My work: audio system programming, prototype assembly, research, and the audio d
 
 ![Arduino](https://img.shields.io/badge/Arduino-842127?style=flat-square&logo=arduino&logoColor=FFF9F0)
 ![C](https://img.shields.io/badge/C-B82D32?style=flat-square&logo=c&logoColor=FFF9F0)
-![3D](https://img.shields.io/badge/3D_Modeling-D96865?style=flat-square&labelColor=D96865&color=D96865)
+![3D modeling](https://img.shields.io/badge/3D_Modeling-842127?style=flat-square)
 
 *Presented at FICIÊNCIAS and IFTECH in 2025; classified for the state stage.*
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
@@ -77,29 +82,23 @@ My work: audio system programming, prototype assembly, research, and the audio d
 
 ![PHP](https://img.shields.io/badge/PHP-842127?style=for-the-badge&logo=php&logoColor=FFF9F0)
 ![JavaScript](https://img.shields.io/badge/JavaScript-B82D32?style=for-the-badge&logo=javascript&logoColor=FFF9F0)
-![SQL](https://img.shields.io/badge/SQL-D96865?style=for-the-badge&logo=mysql&logoColor=252322)
-![CSS](https://img.shields.io/badge/CSS-D96865?style=for-the-badge&logo=css3&logoColor=252322)
-![C](https://img.shields.io/badge/C-B82D32?style=for-the-badge&logo=c&logoColor=FFF9F0)
-![Bash](https://img.shields.io/badge/Bash-B82D32?style=for-the-badge&logo=gnubash&logoColor=FFF9F0)
+![SQL](https://img.shields.io/badge/SQL-842127?style=for-the-badge&logo=mysql&logoColor=FFF9F0)
+![CSS](https://img.shields.io/badge/CSS-B82D32?style=for-the-badge&logo=css3&logoColor=FFF9F0)
+![C](https://img.shields.io/badge/C-842127?style=for-the-badge&logo=c&logoColor=FFF9F0)
 
 **Hardware & prototyping**
 
 ![Arduino](https://img.shields.io/badge/Arduino-842127?style=flat-square&logo=arduino&logoColor=FFF9F0)
-![3D Modeling](https://img.shields.io/badge/3D_Modeling-B82D32?style=flat-square)
-![Prototyping](https://img.shields.io/badge/Prototyping-D96865?style=flat-square&logoColor=252322)
+![3D modeling](https://img.shields.io/badge/3D_Modeling-B82D32?style=flat-square)
+![Prototyping](https://img.shields.io/badge/Prototyping-842127?style=flat-square)
 
 **Tools & environments**
 
-![Git](https://img.shields.io/badge/Git-842127?style=flat-square&logo=git&logoColor=FFF9F0)
 ![GitHub](https://img.shields.io/badge/GitHub-842127?style=flat-square&logo=github&logoColor=FFF9F0)
-![Linux](https://img.shields.io/badge/Linux-B82D32?style=flat-square&logo=linux&logoColor=FFF9F0)
-![Figma](https://img.shields.io/badge/Figma-D96865?style=flat-square&logo=figma&logoColor=252322)
-![Miro](https://img.shields.io/badge/Miro-D96865?style=flat-square&logo=miro&logoColor=252322)
-![Tinkercad](https://img.shields.io/badge/Tinkercad-D96865?style=flat-square)
-![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-D96865?style=flat-square&logo=arduino&logoColor=252322)
-![Windows](https://img.shields.io/badge/Windows-B82D32?style=flat-square&logo=windows&logoColor=FFF9F0)
-![Office](https://img.shields.io/badge/Office-B82D32?style=flat-square&logo=microsoftoffice&logoColor=FFF9F0)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-D96865?style=flat-square&logo=googleworkspace&logoColor=252322)
+![Figma](https://img.shields.io/badge/Figma-B82D32?style=flat-square&logo=figma&logoColor=FFF9F0)
+![Miro](https://img.shields.io/badge/Miro-842127?style=flat-square&logo=miro&logoColor=FFF9F0)
+![Tinkercad](https://img.shields.io/badge/Tinkercad-B82D32?style=flat-square)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-842127?style=flat-square&logo=arduino&logoColor=FFF9F0)
 
 **Areas of interest**
 
@@ -107,18 +106,6 @@ My work: audio system programming, prototype assembly, research, and the audio d
 - Applied research and assistive technology
 - Embedded systems and IoT
 - Accessibility and inclusive educational tools
-
----
-
-## Languages
-
-| Language | Level |
-|:--|:--|
-| Portuguese | Native |
-| English | Advanced |
-| Brazilian Sign Language (Libras) | Advanced |
-| Spanish | Intermediate |
-| French | Basic |
 
 ---
 
